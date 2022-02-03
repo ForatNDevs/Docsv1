@@ -1,13 +1,9 @@
 Benvingut A La Documentació De ForatN
 =====================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**ForatN** ofereix una amplia varietat de *mods* i implementa una experiencia de joc unica.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Per saber com instal·lar el modpack ves a :doc:Instal·lació
 
 .. note::
 
